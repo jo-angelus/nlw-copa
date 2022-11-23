@@ -35,7 +35,7 @@ document.querySelector("#cards").innerHTML =
     ) +
     createCard(
       "22/11", 
-      "Terça",
+      "Segunda",
       createGame("argentina","07:00","saudi arabia") +
       createGame("denmark","10:00","tunisia") +
       createGame("mexico","13:00","poland") + 
@@ -43,7 +43,7 @@ document.querySelector("#cards").innerHTML =
     ) +
     createCard(
       "23/11", 
-      "Quarta",
+      "Segunda",
       createGame("morocco","07:00","croatia") +
       createGame("germany","10:00","japan") +
       createGame("spain","13:00","costa rica") + 
@@ -51,7 +51,7 @@ document.querySelector("#cards").innerHTML =
     ) +      
     createCard(
       "24/11", 
-      "Quinta",
+      "Segunda",
       createGame("switzerland","07:00","cameroon") +
       createGame("uruguay","10:00","south korea") +
       createGame("portugal","13:00","ghana") + 
@@ -59,7 +59,7 @@ document.querySelector("#cards").innerHTML =
     ) +
     createCard(
       "25/11", 
-      "Sexta",
+      "Segunda",
       createGame("wales","07:00","iran") +
       createGame("qatar","10:00","senegal") +
       createGame("netherlands","13:00","ecuador") + 
@@ -67,7 +67,7 @@ document.querySelector("#cards").innerHTML =
     ) +
     createCard(
       "26/11", 
-      "Sábado",
+      "Segunda",
       createGame("tunisia","07:00","australia") +
       createGame("poland","10:00","saudi arabia") +
       createGame("france","13:00","denmark") + 
@@ -75,7 +75,7 @@ document.querySelector("#cards").innerHTML =
     ) +
     createCard(
       "27/11", 
-      "Domingo",
+      "Segunda",
       createGame("japan","07:00","costa rica") +
       createGame("belgium","10:00","morocco") +
       createGame("croatia","13:00","canada") + 
@@ -91,7 +91,7 @@ document.querySelector("#cards").innerHTML =
     ) +
     createCard(
       "29/11", 
-      "Terça",
+      "Segunda",
       createGame("netherlands","12:00","qatar") +
       createGame("ecuador","12:00","senegal") +
       createGame("wales","16:00","england") + 
@@ -99,7 +99,7 @@ document.querySelector("#cards").innerHTML =
     ) +    
     createCard(
       "30/11", 
-      "Quarta",
+      "Segunda",
       createGame("poland","12:00","argentina") +
       createGame("saudi arabia","12:00","mexico") +
       createGame("tunisia","16:00","france") + 
@@ -107,7 +107,7 @@ document.querySelector("#cards").innerHTML =
     ) +     
     createCard(
       "01/12", 
-      "Quinta",
+      "Segunda",
       createGame("croatia","12:00","belgium") +
       createGame("canada","12:00","morocco") +
       createGame("japan","16:00","spain") + 
@@ -115,7 +115,7 @@ document.querySelector("#cards").innerHTML =
     ) +
     createCard(
       "02/12", 
-      "Sexta",
+      "Segunda",
       createGame("south korea","12:00","portugal") +
       createGame("ghana","12:00","uruguay") +
       createGame("cameroon","16:00","brazil") + 
